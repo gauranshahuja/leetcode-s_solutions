@@ -26,8 +26,17 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
