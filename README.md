@@ -36,6 +36,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -53,4 +54,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
