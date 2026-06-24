@@ -23,6 +23,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | ------- |
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
