@@ -33,6 +33,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0009-palindrome-number) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
