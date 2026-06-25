@@ -81,4 +81,12 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
