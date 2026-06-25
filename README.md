@@ -24,6 +24,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0027-remove-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0027-remove-element) |
 ## Divide and Conquer
 |  |
 | ------- |
