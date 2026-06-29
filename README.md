@@ -29,6 +29,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [1470-shuffle-the-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -50,6 +51,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
