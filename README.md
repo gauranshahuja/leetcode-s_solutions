@@ -39,6 +39,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | ------- |
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0001-two-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -54,6 +55,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -148,4 +150,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
