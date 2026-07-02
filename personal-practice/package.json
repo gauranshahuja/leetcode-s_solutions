@@ -1,0 +1,18 @@
+{
+  "name": "dsa-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily DSA practice in plain JavaScript - one problem a day",
+  "scripts": {
+    "test": "node lib/run-all.js",
+    "day": "node lib/run-all.js"
+  },
+  "keywords": [
+    "dsa",
+    "algorithms",
+    "data-structures",
+    "javascript",
+    "leetcode"
+  ],
+  "license": "MIT"
+}
