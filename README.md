@@ -25,6 +25,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0014-longest-common-prefix](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -135,6 +136,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
