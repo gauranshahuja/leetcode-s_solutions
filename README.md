@@ -145,10 +145,12 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -166,6 +168,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3620-network-recovery-pathways](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -179,4 +182,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
+## Depth-First Search
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
