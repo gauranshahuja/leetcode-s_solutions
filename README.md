@@ -27,6 +27,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0027-remove-element](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1929-concatenation-of-array) |
@@ -40,6 +41,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -128,6 +130,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 ## Sorting
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
@@ -172,4 +175,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
