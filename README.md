@@ -29,6 +29,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0485-max-consecutive-ones](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1929-concatenation-of-array) |
@@ -45,6 +46,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -133,6 +135,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | ------- |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1288-remove-covered-intervals) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
@@ -188,4 +191,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
