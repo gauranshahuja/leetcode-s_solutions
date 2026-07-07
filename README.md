@@ -31,6 +31,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1929-concatenation-of-array) |
@@ -92,6 +93,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
