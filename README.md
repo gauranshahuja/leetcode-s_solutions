@@ -35,6 +35,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -99,6 +100,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,4 +208,8 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
