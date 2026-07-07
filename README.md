@@ -26,6 +26,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0035-search-insert-position) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0645-set-mismatch) |
@@ -57,6 +58,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
@@ -93,6 +95,7 @@ Each problem lives in its own folder with the solution (in C / C++ / Python) and
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
