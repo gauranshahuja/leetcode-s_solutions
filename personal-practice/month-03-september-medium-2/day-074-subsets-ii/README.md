@@ -13,7 +13,7 @@ nums = [1,1,1]  ->  [], [1], [1,1], [1,1,1]                  4, not 8
 nums = []       ->  [[]]
 ```
 
-Plain subsets (Day 049) gives `2^n` of them. Here two of those `2^n` paths pick
+Plain subsets (Day 050) gives `2^n` of them. Here two of those `2^n` paths pick
 "the first 2" and "the second 2" and produce the same subset, so the count
 collapses to `product(count_i + 1)` over the distinct values - for `[1,2,2]`
 that is `2 * 3 = 6`.

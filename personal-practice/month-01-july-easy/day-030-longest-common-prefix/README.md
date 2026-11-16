@@ -99,17 +99,14 @@ shortest word.
 Thirty days, thirty easy problems, and the main thing that changed is that I
 now recognise shapes instead of reading each problem as brand new:
 
-- hash map for lookups and counts (Day 001, Day 004, Day 027 and most of the
-  array days)
+- hash map for lookups and counts (Day 001, Day 004, Day 027)
 - two pointers / an index that walks instead of a `shift()`
 - the recursion template for trees: null base case, recurse both sides,
   combine (Day 022, Day 023, Day 024, and they really are one function with
   three different middles)
 - bit tricks as arithmetic identities rather than loops (Day 025, Day 026)
 
-Weakest area, clearly: **bit manipulation**. XOR and `n & (n - 1)` both worked
-once I was told the identity, but I did not derive either of them and I would
-not spot the next one. I also still need to be careful with JS specifically -
+Weakest area, clearly: **bit manipulation**. XOR and `n & (n - 1)` both worked, but I looked `n & (n - 1)` up rather than deriving it, and I would not spot the next one. I also still need to be careful with JS specifically -
 signed 32-bit coercion, `>>` vs `>>>`, `sort()` comparing as strings,
 `MAX_SAFE_INTEGER` on digit problems. Four separate bugs this month came from
 the language and not the algorithm.

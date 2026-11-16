@@ -94,7 +94,7 @@ huge and memory tight I would take it. Here `O(n)` time is worth the set.
 
 ## Pattern to remember
 
-Three days in and a set or map has been the answer to all three. The question
+Three days in and a set or map has been the answer to two of the three. The question
 each time is slightly different:
 
 - Day 001: "have I seen `target - x`?"

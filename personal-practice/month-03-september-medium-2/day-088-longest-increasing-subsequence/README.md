@@ -16,8 +16,7 @@ substring, so elements may be skipped but not reordered.
 
 `dp[i] = length of the best increasing subsequence that ends exactly at i`.
 
-Anchoring on "ends at i" is the whole trick, and it is the same move as Day 059:
-make the state about a decision point, not about a prefix in general. Then every
+Anchoring on "ends at i" is the whole trick: make the state about a decision point, not about a prefix in general. Then every
 subsequence ending at `i` is either `nums[i]` alone, or something ending at an
 earlier `j` with `nums[j] < nums[i]`, plus one.
 

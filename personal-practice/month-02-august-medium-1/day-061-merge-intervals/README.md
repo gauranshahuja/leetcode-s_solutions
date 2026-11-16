@@ -110,12 +110,11 @@ Last day of August, so looking back at the month as a whole:
   traversal that matches the question" - levels need a queue, ordering needs
   inorder, navigation needs the BST property. Day 053 was the one that taught me
   something real: a subtree property is not a parent-child property.
-- **Graphs were the hardest part**, and Day 058 is the only day this month I
-  gave up and read about the algorithm instead of deriving it. In-degrees are
+- **Graphs were the hardest part**, and Day 058 is one of three days this month I read something instead of deriving it: a hint on Day 047, the pruning rule on Day 049, and Kahn's algorithm on Day 058. In-degrees are
   not something I would have invented. Days 056 and 057 were easier than
   expected: once "the grid is a graph" lands, the rest is the neighbour loop
   plus picking DFS or BFS.
-- **DP took the most attempts** (Day 060, four of them) but the least surprise.
+- **DP took four attempts on Day 060**, as many as Days 034 and 036, but the least surprise.
   Day 059 was Day 019 with a `max` instead of a `+`, and Day 060 was the first
   time I had to be careful about the *representation* (`Infinity`) rather than
   the recurrence.

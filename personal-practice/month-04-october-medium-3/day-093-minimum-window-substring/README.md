@@ -2,8 +2,7 @@
 
 LeetCode 76 · Hard · Sliding window with counts · Friday, 2 October 2026 · ~1 hr 40 min, 4 attempts
 
-The hardest sliding window I have done. Days 063-066 were variants of "keep one
-condition true and track a max"; this keeps a *multiset* condition true and
+The hardest sliding window I have done. Days 063 and 065 were variants of "keep one condition true and track a max"; this keeps a *multiset* condition true and
 tracks a min, and the difficulty gap is real. Four attempts, and the third was
 correct but re-scanned the whole map every step.
 
@@ -23,7 +22,7 @@ s = "a",             t = "aa"   ->  ""      (only one 'a' available)
 ## The shape I expected to use
 
 Grow `right`; when the window becomes valid, shrink `left` as far as it will go
-while recording the best length. Days 063-066 all look like that, so the
+while recording the best length. Days 063 and 065 look like that, so the
 skeleton came out in two minutes:
 
 ```js
@@ -136,5 +135,3 @@ its job instead of ruining everything.
 Minimise-a-valid-window shrinks while valid. Maximise shrinks while
 broken. And when validity is a multiset condition, collapse it to a single
 `formed === required` counter that only moves on exact boundary crossings.
-
-I expect the required/formed counter again on "Permutation in String".

@@ -78,8 +78,7 @@ What actually stuck:
 - **Two pointers has more than one shape.** Converging from both ends (007),
   slow write pointer plus fast read pointer (006, 009), and filling from the back
   to avoid overwriting (008). I kept confusing these in week 1.
-- **Recursion on trees is easier than recursion on arrays.** Days 021 to 024 were
-  the smoothest run of the month. The structure tells you the recursion.
+- **Recursion on trees is easier than recursion on arrays.** Days 021 to 023 were the smoothest run of the month. The structure tells you the recursion.
 
 What is still weak:
 
@@ -87,8 +86,7 @@ What is still weak:
   I can do it now but I do not yet *see* it, I have to draw the boxes.
 - **DP.** Days 019 and 020 worked, but I only trust them because they are small.
   I do not think I could derive a recurrence for something unfamiliar yet.
-- **Bit manipulation.** XOR on day 025 felt like a magic trick rather than
-  something I reasoned out.
+- **Bit manipulation.** XOR on day 025 looked like luck until I checked each bit column separately.
 
 Carrying into August: same topic families, harder versions. I want sliding
 window and backtracking in there, since this month had neither.

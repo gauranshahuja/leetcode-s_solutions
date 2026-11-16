@@ -42,8 +42,7 @@ Replace the Set with a Map of `value -> copies still unmatched`:
    answer and **decrement** the count
 3. a count of 0 means that value is used up, so later copies do not match
 
-This is the same Map-of-counts I used for Valid Anagram on Day 004, except the
-counts get spent across two arrays instead of compared at the end.
+This is the same Map-of-counts I used for Valid Anagram on Day 004: count one side, spend the counts walking the other.
 
 Step 2's decrement is the entire fix. Without it the count is never spent and
 I am back to Set behaviour with extra steps.

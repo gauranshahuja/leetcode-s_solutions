@@ -91,7 +91,7 @@ this same pass, which is how `2+2` gets counted at all.
 
 ## The three-way comparison I want to remember
 
-This is the third time this month I have written a 1D knapsack row, and all
+This is the third time I have written a 1D knapsack row, and all
 three differ only in the loop structure.
 
 | Day | Problem | Loops | Inner direction | Why |
@@ -100,10 +100,7 @@ three differ only in the loop structure.
 | 090 | Partition Equal Subset Sum | items outer | **downwards** | 0/1 knapsack: each number may be used at most once, so `dp[a-c]` must still be the value from *before* this item was introduced |
 | 121 | Coin Change II (count combinations) | **coins outer** | upwards | counting, so each multiset must be reachable by exactly one path; upwards lets a coin be reused |
 
-Day 060 is the interesting one. I could have written its loops in either order
-and never noticed, and that is exactly why I reached for the wrong template
-today: I had learned a loop shape without learning which half of it was load
-bearing. Minimisation is idempotent, counting is not. The moment a DP *counts*
+Day 060 is the interesting one. Its loops work in either order - Day 060 checked that and wrote down that counting needs coins outside - and I still reached for the wrong template today. Minimisation is idempotent, counting is not. The moment a DP *counts*
 things, every structural choice becomes visible in the answer. Day 090 says the
 same thing from the other side - iterating upwards there would have let one
 number be used twice, silently. Same symptom, opposite cause.

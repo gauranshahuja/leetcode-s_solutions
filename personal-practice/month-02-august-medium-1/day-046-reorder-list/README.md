@@ -26,8 +26,7 @@ mechanical:
 | 3 | interleave two lists | new, and it is the easy part |
 
 No new technique. The problem is a test of whether I can *recognise* the two
-things I already have. That is the first time a problem has felt like that, and
-it is a much better feeling than learning a new trick.
+things I already have. That is a much better feeling than learning a new trick.
 
 ## Why reversing the back half is the whole trick
 

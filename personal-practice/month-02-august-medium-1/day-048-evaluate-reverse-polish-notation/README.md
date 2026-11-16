@@ -109,6 +109,5 @@ have opinions, maps don't.
 Postfix needs no parser, just a stack. The two things to be deliberate
 about are the pop order and the division rounding mode.
 
-Third stack day now (016 for matching brackets, 017 for Min Stack, 047 for
-"next greater"), and this is the plainest use yet: the stack is literally the
+Fifth stack day now (016 for matching brackets, 017 for Min Stack, 018 for the two-stack queue, 047 for "next greater"), and this is the plainest use yet: the stack is literally the
 machine's operand stack.

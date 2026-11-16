@@ -56,7 +56,7 @@ Per month:
 | [023](month-01-july-easy/day-023-same-tree/) | Fri 24 Jul | Same Tree | 100 | Tree recursion, parallel traversal | Easy | ~14 min | 1 |  |
 | [024](month-01-july-easy/day-024-symmetric-tree/) | Sat 25 Jul | Symmetric Tree | 101 | Tree recursion, mirrored traversal | Easy | ~25 min | 3 |  |
 | [025](month-01-july-easy/day-025-single-number/) | Sun 26 Jul | Single Number | 136 | Bit manipulation, XOR | Easy | ~30 min | 2 |  |
-| [026](month-01-july-easy/day-026-number-of-1-bits/) | Mon 27 Jul | Number of 1 Bits | 191 | Bit manipulation | Easy | ~22 min | 3 |  |
+| [026](month-01-july-easy/day-026-number-of-1-bits/) | Mon 27 Jul | Number of 1 Bits | 191 | Bit manipulation | Easy | ~22 min | 3 | looked up the `n & (n - 1)` loop after the shift version worked |
 | [027](month-01-july-easy/day-027-intersection-of-two-arrays-ii/) | Tue 28 Jul | Intersection of Two Arrays II | 350 | Hash map counting | Easy | ~16 min | 2 |  |
 | [028](month-01-july-easy/day-028-plus-one/) | Wed 29 Jul | Plus One | 66 | Array, carry propagation | Easy | ~12 min | 2 |  |
 | [029](month-01-july-easy/day-029-rotate-array/) | Thu 30 Jul | Rotate Array | 189 | Array, triple reversal | Easy | ~35 min | 3 | read that triple reversal is the usual approach |
@@ -217,13 +217,14 @@ Attempts:
 
 First-attempt days: 003, 009, 021, 023, 045, 054, 059, 065, 069, 073, 080, 098, 112, 117, 118, 120. Day 073 also needed one fix for `""`.
 
-Outside help, 17 of 138 days:
+Outside help, 18 of 138 days:
 
 | Day | Problem | What I read |
 |---|---|---|
 | [005](month-01-july-easy/day-005-maximum-subarray/) | Maximum Subarray | editorial, for the one-line idea |
 | [010](month-01-july-easy/day-010-majority-element/) | Majority Element | read about the voting algorithm, for the O(1) follow-up |
 | [019](month-01-july-easy/day-019-climbing-stairs/) | Climbing Stairs | read about memoisation |
+| [026](month-01-july-easy/day-026-number-of-1-bits/) | Number of 1 Bits | looked up the `n & (n - 1)` loop after the shift version worked |
 | [029](month-01-july-easy/day-029-rotate-array/) | Rotate Array | read that triple reversal is the usual approach |
 | [047](month-02-august-medium-1/day-047-daily-temperatures/) | Daily Temperatures | a one-word hint: stack |
 | [049](month-02-august-medium-1/day-049-generate-parentheses/) | Generate Parentheses | read about the pruning rule |

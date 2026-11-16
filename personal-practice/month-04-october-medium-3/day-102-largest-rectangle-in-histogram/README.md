@@ -6,7 +6,7 @@ Honest about this one: I had the stack and the idea that each bar's rectangle is
 bounded by the first shorter bar on each side, and still could not get the width
 formula right. Gave up after about 50 minutes, read the editorial far enough to
 see **where the left boundary comes from**, closed it, and wrote the rest
-myself. If I needed a hint on anything this month, it was this.
+myself. I needed a hint on this one, as on Day 097 and Day 109.
 
 ## Problem
 

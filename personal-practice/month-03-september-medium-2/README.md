@@ -80,8 +80,7 @@ New this month: **binary search on the answer** (days 068, 069), **Union-Find**
 Best thing I learned all month: **binary search does not need a sorted array,
 it needs a monotonic predicate.** Day 068 reframed an entire category of
 problems for me. "Can Koko finish at speed k?" is false, false, false, true,
-true, true as k grows, and that is all binary search ever needed. Day 069 then
-took eight minutes because it is the same thing wearing a different hat.
+true, true as k grows, and that is all binary search ever needed. Day 069 then took about 25 minutes because it is the same thing wearing a different hat.
 
 Other things that landed:
 
@@ -99,12 +98,11 @@ Other things that landed:
 
 Still shaky:
 
-- **Day 076 (LRU)** took me nearly two hours. Writing my own doubly linked list
+- **Day 076 (LRU)** took me about 1 hr 10 min over two sittings. Writing my own doubly linked list
   while keeping a map in sync was more fiddly than any algorithm this month.
   Design problems are clearly a separate skill.
-- **Day 088's O(n log n) LIS.** I can implement it. I am not sure I could
-  defend why the `tails` array is correct if someone pushed me on it.
-- Dedup in backtracking (074) still feels like a rule I memorised.
+- **Day 088's O(n log n) LIS.** I can implement it, but I read the idea rather than finding it, and it took me about half an hour to trust it.
+- Dedup in backtracking (074) took me three attempts to get right.
 
 October plan: push into the hard end of medium. Minimum Window Substring,
 Largest Rectangle, Reverse Nodes in k-Group. Things I have been avoiding.

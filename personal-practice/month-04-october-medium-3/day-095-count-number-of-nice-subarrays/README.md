@@ -63,8 +63,7 @@ total += right - left + 1;
 ```
 
 Every start position from `left` to `right` gives a valid subarray ending at
-`right`, and there are `right - left + 1` of them. No inner loop. The first
-time I saw this (Day 065) I did not believe it; now it is the line I look for.
+`right`, and there are `right - left + 1` of them. No inner loop. Now it is the line I look for.
 
 ## Dry run
 

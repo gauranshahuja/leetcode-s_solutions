@@ -27,8 +27,7 @@ land on the edge of the block.
 ## What I actually needed was Day 012 again
 
 Day 012 (Search Insert Position) computed "the index where `target` should go",
-which is the first index whose value is `>= target`. That is `lowerBound`. At
-the time I treated it as the answer to that specific problem. It is really a
+which is the first index whose value is `>= target`. That is `lowerBound`. At the time I already noted it as a skeleton I expected to reuse. It is really a
 **primitive**, and almost every "find the boundary" question is one or two
 calls to it:
 

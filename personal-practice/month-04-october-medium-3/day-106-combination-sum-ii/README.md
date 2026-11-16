@@ -100,6 +100,6 @@ bites you later.
 inputs" is sort + skip-equal-at-the-same-level. They are independent fixes
 and you usually need both.
 
-Three days of backtracking variants now (072, 073, 074 and this one) and the
+Four days of backtracking variants now (072, 073, 074 and this one) and the
 template has not changed once - only the loop guard and the recursion index do.
 Worth keeping that in mind when the next one shows up.

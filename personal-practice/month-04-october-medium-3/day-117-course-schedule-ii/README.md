@@ -107,8 +107,7 @@ that shape of mistake before on the group-anagrams day.
 ## One implementation note
 
 `queue.shift()` re-indexes the array in V8, so a queue of `V` courses would cost
-`O(V^2)`. I keep a `head` index and never remove anything, same as every BFS
-this month.
+`O(V^2)`. I keep a `head` index and never remove anything.
 
 ## Complexity
 

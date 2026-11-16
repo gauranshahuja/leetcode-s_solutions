@@ -43,8 +43,7 @@ everything strictly left of `i` and `suffix[i]` everything strictly right. Both
 are running products, so each takes one linear pass. That is the whole
 algorithm, and no element is ever multiplied by itself.
 
-Day 005 (Maximum Subarray) was the first time I kept a running value instead of
-recomputing a range. This is that with two directions.
+Day 005 (Maximum Subarray) kept a running value instead of recomputing a range. This is that with two directions.
 
 ## Dry run on `[1, 2, 3, 4]`
 

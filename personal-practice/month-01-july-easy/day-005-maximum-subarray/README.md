@@ -121,8 +121,7 @@ One pass, two numbers, no extra array.
 
 ## Note to self
 
-This is the first problem where the answer was a **definition** rather than a
-data structure. Days 001-004 were all "put things in a map". Here nothing
+Like Day 002, the answer here was a **definition** rather than a data structure. Days 001, 003 and 004 were all "put things in a map". Here nothing
 gets stored; the win came from picking the right quantity to carry (best
 ending here) so that each step is a two-way choice.
 

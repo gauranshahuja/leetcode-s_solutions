@@ -15,9 +15,7 @@ pretending otherwise: days 093, 094, 100, 101, 102 and 109.
 
 The shift this month was that I stopped reaching for a structure and started
 reaching for a *reframing*. Day 095 is counting subarrays, which sounds like a
-new problem until you notice `exactly(k) = atMost(k) - atMost(k-1)`. Day 097
-is finding a duplicate, which becomes cycle detection the moment you read the
-array as a linked list. Day 099 is in-place only if you agree to store two
+new problem until you notice `exactly(k) = atMost(k) - atMost(k-1)`. Day 097 is finding a duplicate, which becomes cycle detection the moment you read the array as a linked list, though that reframing came from the editorial's first paragraph. Day 099 is in-place only if you agree to store two
 states in one integer.
 
 ## Topics this month
@@ -83,34 +81,28 @@ states in one integer.
 The single most useful thing this month was day 121, and it is a small thing:
 **in knapsack-style DP, the loop order decides what you are counting.** Coins in
 the outer loop counts combinations. Amounts in the outer loop counts
-permutations. Day 060 back in August let me get away without understanding this
-because the question only asked for a minimum, where order genuinely does not
-matter. Day 121 does not let you get away with it. Pair that with day 090's
+permutations. Day 060 back in August is where I wrote this rule down, but the question only asked for a minimum, where order genuinely does not matter, so nothing tested it. Day 121 does not let you get away with it. Pair that with day 090's
 backwards iteration and I think I finally understand what the loops in a DP are
 actually doing, rather than copying a shape.
 
 Other wins:
 
-- **Monotonic stacks are no longer scary.** Day 047 in August was a recipe. By
-  day 102 I could reason about what the stack means (bars still waiting for a
-  shorter neighbour) and derive the width calculation instead of recalling it.
+- **Monotonic stacks are no longer scary.** Day 047 in August needed a one-word hint. By day 102 I could reason about what the stack means (bars still waiting for a shorter neighbour), but the width calculation needed the editorial.
 - **Graphs got boring, in a good way.** Days 117 to 120 were four different
-  graph techniques in four days and none of them cost more than 40 minutes.
-  Kahn's algorithm, multi-source BFS, Dijkstra, Union-Find. In August I could
-  not have written any of them unaided.
+  graph techniques in four days and none of them cost more than 45 minutes.
+  Kahn's algorithm, multi-source BFS, Dijkstra, Union-Find. In August I could not have written Kahn's, Dijkstra or Union-Find unaided.
 - **Day 109's clamp.** `Math.max(0, childContribution)` is one of those lines
   that looks like a detail and is actually the whole insight: a subtree that
   hurts you is simply not used.
 
 Costs and sore spots:
 
-- **Day 102 (Largest Rectangle)** is the one I had to read about. I got the
+- **Day 102 (Largest Rectangle)** is one of three I had to read about this month (097 and 109 are the others). I got the
   stack part myself and could not work out the width arithmetic. I coded it from
   scratch after understanding it, but it was not mine.
 - **Day 100 (Reverse Nodes in k-Group)** took four attempts and a hand-drawn
   diagram. Pointer surgery is still my slowest skill.
-- **Day 111's tie-break rule.** Lost half an hour to not reading the problem
-  carefully. Same value, same cell position, smaller value first. Reading
+- **Day 111's tie-break rule.** Lost an attempt to not reading the problem carefully. Same row, same column, smaller value first. Reading
   properly is a skill too.
 
 November plan: hard problems only. I have been circling Trapping Rain Water,

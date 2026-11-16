@@ -78,11 +78,10 @@ already on the stack gets pushed twice. It still gives the right answer, but the
 stack can grow past `O(m*n)`. Marking at push time keeps the invariant "a cell
 on the stack has already been marked".
 
-**Recursion depth.** I started with the recursive DFS from Day 056 and it is
+**Recursion depth.** I started with a recursive DFS and it is
 fine for the test boards, but a `200 x 200` board of all `'O'` is a 40,000-deep
 call chain and Node throws `RangeError: Maximum call stack size exceeded`. Grid
-floods in JS want an explicit stack. That is a real difference from Day 056,
-where the islands were small enough that I never noticed.
+floods in JS want an explicit stack. Day 056 already used an explicit stack for exactly this reason.
 
 ## Complexity
 

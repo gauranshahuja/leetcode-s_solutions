@@ -108,7 +108,6 @@ problem, and a test checks they agree on the awkward tree above.
 
 ## Note to self
 
-Left side view = same code, take `level[0]` (or recurse left first). This one
-took a quarter of the time of yesterday's problem - level-order is properly in
+Left side view = same code, take `level[0]` (or recurse left first). This one took ~18 min against ~25 for yesterday's problem - level-order is properly in
 my fingers now, and the only thinking was about the counterexample tree rather
 than the traversal.

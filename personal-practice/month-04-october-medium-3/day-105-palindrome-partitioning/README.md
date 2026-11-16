@@ -93,7 +93,7 @@ if (start === n) { out.push(path); return; }   // wrong
 every recorded answer is the same array, and by the time the search unwinds it
 is empty - so the result was `[[], []]`. `path.slice()` fixes it.
 
-I have hit this on every single backtracking day and I still typed it. Writing
+I have hit this before (Day 050, Day 072) and I still typed it. Writing
 `out.push(path.slice())` as one unit from now on.
 
 ## Complexity

@@ -45,7 +45,7 @@ Then three small decisions shrink the loop to six lines:
    branch completely.
 2. The loop condition is `while (a || b || carry)`. The carry keeps the loop
    alive for one more node, which is how `99 + 1` grows from 2 digits to 3.
-3. A dummy head, same trick as Day 013, so I never have to write
+3. A dummy head, so I never have to write
    `if (head === null) head = node; else tail.next = node;`.
 
 ## Walking through 9999999 + 9999

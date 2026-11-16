@@ -51,7 +51,7 @@ for each price:
 ```
 
 `best` starts at `0`, which is not a hack here: not trading is a legal move,
-so the profit genuinely cannot go below zero. (Tomorrow's Maximum Subarray
+so the profit genuinely cannot go below zero. (Day 005's Maximum Subarray
 problem looks similar and there a `0` start **is** a bug, but that is a
 different problem.)
 

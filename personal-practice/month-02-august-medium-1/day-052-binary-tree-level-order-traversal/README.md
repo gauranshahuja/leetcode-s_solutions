@@ -113,8 +113,7 @@ const walk = (node, depth) => {
 
 That gives the same arrays because left is always visited before right at the
 same depth. I went with BFS because the level boundary is explicit instead of
-being a side effect of the visit order - and because tomorrow's problems want
-me comfortable with a queue.
+being a side effect of the visit order - and because later problems want me comfortable with a queue.
 
 ## Note to self
 

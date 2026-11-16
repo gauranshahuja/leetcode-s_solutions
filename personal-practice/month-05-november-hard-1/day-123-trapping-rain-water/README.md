@@ -118,8 +118,7 @@ statements.
 
 ## Alternative approaches
 
-The monotonic decreasing stack from Day 102 (Largest Rectangle in Histogram)
-also solves this: keep indices of bars in decreasing height, and when a taller
+A monotonic stack like Day 102's (Largest Rectangle in Histogram), but decreasing, also solves this: keep indices of bars in decreasing height, and when a taller
 bar arrives, pop and settle the water trapped between the popped bar's
 neighbours. `O(n)` time but `O(n)` space, so strictly worse here. Still worth
 noticing that histogram-shaped problems keep reducing to the same stack. I did

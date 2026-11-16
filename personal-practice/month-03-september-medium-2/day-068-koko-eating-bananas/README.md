@@ -52,8 +52,7 @@ monotonic because eating faster can never make the job take longer: raising
 `s` can only lower (or hold) each `ceil(p / s)`, so `hoursNeeded` is
 non-increasing, so once `feasible` turns true it stays true.
 
-And "find the first `true` in a sorted boolean array" is the same first-true
-binary search as Day 011, except each element is computed by calling a function
+And "find the first `true` in a sorted boolean array" is the same first-true binary search as Day 012, except each element is computed by calling a function
 instead of being read out of memory. That one sentence is the pattern.
 
 ## Choosing the bounds

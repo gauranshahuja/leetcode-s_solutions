@@ -15,7 +15,7 @@ nums = [1],           k = 1  ->  [1]
 ## Step one is last month
 
 Count with a `Map`. That part I did not have to think about at all, it is the
-same counting pass as Day 003 and Day 004:
+same counting pass as Day 004 and Day 027:
 
 ```js
 counts.set(n, (counts.get(n) || 0) + 1);

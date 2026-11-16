@@ -135,17 +135,14 @@ Written on the last day of the run, so: the real jump was month 3. Months 1 and
 2 were mostly "recognise the shape" - two pointers, a hash map, a stack - and I
 could usually get there by pattern-matching against something I had already
 done. Month 3 is where that stopped working and I had to actually state an
-invariant before writing code, and the days where I wrote first and thought
-second are the days that took three hours.
+invariant before writing code.
 
 Still shaky: DP where I have to invent the state. Yesterday's Burst Balloons is
 the honest example - I had the tools and still needed the editorial, because I
 kept asking the wrong question about the interval. Tabulation I can do; deciding
-*what the subproblem is* is the gap. Graphs too, if I am being fair: I have done
-the standard traversals but nothing with real shortest-path or flow.
+*what the subproblem is* is the gap. Graphs too, if I am being fair: I have done the standard traversals and one Dijkstra (day 119), but nothing with flow.
 
-Next: re-solve from a blank file the two days I needed help on this month (134
-and 137), because "I followed the editorial" is not the same as "I can produce
+Next: re-solve from a blank file the five days I needed help on this month (124, 127, 128, 134 and 137), because "I followed the editorial" is not the same as "I can produce
 it". Then segment trees and proper graph algorithms. Weekly rather than daily
 from here - daily was the right forcing function to start with, and lately it
 has been costing more than it teaches.

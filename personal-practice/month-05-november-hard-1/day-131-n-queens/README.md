@@ -2,7 +2,7 @@
 
 LeetCode 51 · Hard · Backtracking with diagonal sets · Monday, 9 November 2026 · ~1 hr 10 min, 2 attempts
 
-First day of the hard month. I had been putting N-Queens off since the
+Ninth day of the hard month. I had been putting N-Queens off since the
 backtracking week because the diagonals looked fiddly. They are not fiddly,
 they are two subtractions.
 
@@ -77,7 +77,7 @@ boards.push(queenAt);   // wrong - stores a reference
 ```
 
 Every entry in the output was the same live array, which the next backtrack
-step then mutated. Same shallow-copy mistake as the matrix rows on Day 071, in
+step then mutated. Same shallow-copy mistake as the matrix rows on Day 042, in
 different clothes. Rendering to strings inside the `row === n` branch fixes it
 because the strings are built right there and never change afterwards.
 

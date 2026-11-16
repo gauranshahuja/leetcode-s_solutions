@@ -88,7 +88,7 @@ It isn't:
 So across the entire function the while body executes at most `n` times
 *total*, not `n` times per outer iteration. Plus `n` pushes. `O(n)` overall.
 
-Amortised counting like this is new to me. The way to see it is to stop
+Amortised counting like this is the same argument as the two-stack queue on Day 018. The way to see it is to stop
 counting the loops and count the *total work on each element* instead.
 
 ## The bug

@@ -12,13 +12,12 @@
 
 Hard only. No medium padding.
 
-The honest headline: **one a day still works, but the sessions are longer.**
-July days were 15 to 25 minutes. This month has been 45 minutes to 3 hours, and
+The honest headline: **one a day has held all month, but the sessions are longer.**
+July days were 10 to 35 minutes. This month has been 45 minutes to 3 hours, and
 a few days I have only had the idea by the end of the session and written the
 clean version the next morning before starting the new problem.
 
-Second honest point: **three of these needed outside help for the key idea**
-(days 124, 137 and one of the matching problems). I have noted it in each file
+Second honest point: **four of these needed outside help for the key idea** (days 124, 127, 134 and 137), and on day 128 I read the editorial for the greedy version. I have noted it in each file
 rather than quietly pretending I derived it. The code is mine; the insight was
 not.
 
@@ -66,23 +65,22 @@ not.
 - **Days 126 to 128 as a block was the right call.** Edit Distance, then regex,
   then wildcard. Three 2D DP problems in a row where the only thing that changes
   is what a cell is allowed to transition from. Doing them on consecutive days
-  meant the third one took 40 minutes instead of three hours. I should have been
+  meant the third one took 65 minutes instead of three hours. I should have been
   grouping problems like this months ago.
-- **Day 137 is the only problem all year where the natural framing is wrong.**
+- **On Day 137 the natural framing is wrong.**
   Thinking about which balloon to burst first leaves subproblems that depend on
   each other, so there is nothing to recurse on. Asking which balloon is burst
   *last* in a range makes the two sides independent. I did not find that myself.
-- **Day 134 (LFU) was harder than any algorithm this month.** Day 076's LRU was
+- **Day 134 (LFU) was the hardest design problem so far.** Day 076's LRU was
   one ordered list. LFU is a map of frequency buckets plus a minimum-frequency
   pointer, and every operation has to keep three things in sync. Design problems
   remain my weakest area, which is annoying because they are the ones that come
   up in interviews.
 - **Day 123 was a nice surprise.** Trapping Rain Water has been sitting on my
-  "scary" list since July and the two-pointer version is eight lines. The work
-  is entirely in believing the invariant, not in writing it.
+  "scary" list since July and the two-pointer version is eight lines. Most of the work is in believing the invariant, not in writing it.
 
 ## What is next
 
 Finish November on hard problems. Then December I want to stop adding new
-problems for a week and re-solve the 20 days I marked "revisit" from a blank
+problems for a week and re-solve the 18 days I marked "revisit" from a blank
 file, because I suspect a few of them I only pattern-matched.

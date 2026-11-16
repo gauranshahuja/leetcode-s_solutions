@@ -111,8 +111,7 @@ remaining values) instead of walking `empties` in index order: at each step,
 choose the blank with the fewest legal digits. A cell with one candidate gets
 forced immediately and never generates a branch, so the tree gets much thinner.
 It costs an O(81) scan per node, which is a bad trade on easy puzzles and a very
-good one on 17-clue puzzles. Worth coming back to with the bitmask popcount
-trick from yesterday, since "how many candidates" is then just
+good one on 17-clue puzzles. Worth coming back to with the bitmask trick from yesterday, since "how many candidates" is then just
 `popcount(~(rows[r] | cols[c] | boxes[b]))`.
 
 ## Complexity

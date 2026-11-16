@@ -85,8 +85,7 @@ The three things worth remembering from August:
    negative numbers and it failed, which is how I learned the window needs
    monotonicity to work at all. That failure taught me more than day 034 did.
 2. **Backtracking is one shape.** Choose, recurse, un-choose. Days 049 to 051
-   are the same seven lines with a different constraint. Forgetting the
-   un-choose is the bug every single time.
+   are the same seven lines with a different constraint. Forgetting the un-choose was the bug on days 049 and 051.
 3. **DFS vs BFS is not a style choice.** Day 056 works with either. Day 057
    needs BFS because the answer is a number of minutes, and DFS has no concept
    of "all at the same distance". That distinction finally landed.
@@ -95,9 +94,8 @@ Still uncomfortable:
 
 - **Graphs.** Day 058 (topological sort) I got working but I was following a
   recipe. I could not have derived Kahn's algorithm on my own.
-- **DP.** Day 060 (Coin Change) took me four attempts, mostly because I could
-  not decide what the state should be. Next month I want more DP, deliberately.
-- **Matrix index juggling.** Day 043 was pure off-by-one pain.
+- **DP.** Day 060 (Coin Change) took me four attempts, two of them on how to mark unreachable amounts. Next month I want more DP, deliberately.
+- **Matrix index juggling.** Day 043 was all about the order of the writes.
 
 September plan: harder versions of these again, plus a real design problem
 (something like LRU cache) because I have never built one.

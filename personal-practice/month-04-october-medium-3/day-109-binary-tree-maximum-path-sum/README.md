@@ -126,6 +126,5 @@ Return the extendable quantity, record the finished one. And when an optional
 contribution can be negative, `Math.max(0, ...)` is "skip it" - apply it only
 to the optional parts, never to the part the answer must contain.
 
-Third time this two-quantity DFS has come up (083, and the height/balance one
-before it). I wrote the skeleton from memory in about four minutes; the 50
+Second time this two-quantity DFS has come up (083 was the first). I wrote the skeleton from memory in about four minutes; the 50
 minutes went on the clamp, which is the thing that is actually new here.

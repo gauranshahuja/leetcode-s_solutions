@@ -82,7 +82,7 @@ while (dq.length && dq[0] <= i - k) dq.shift();   // O(n) per call
 It gives the right answers, but `Array.prototype.shift()` has to reindex the
 whole array, so it is `O(n)`. On a decreasing input like `[5,4,3,2,1]` the front
 is evicted every single step and the "O(n)" solution is quietly `O(n^2)` again.
-Same gotcha I hit on Day 063 using `shift()` as a queue head.
+Same gotcha I hit on Day 052 using `shift()` as a queue head.
 
 Fix: a flat `Int32Array` with `head` and `tail` indices. `head += 1` instead of
 `shift()`, `tail -= 1` instead of `pop()`. Nothing is ever moved. Also meant I

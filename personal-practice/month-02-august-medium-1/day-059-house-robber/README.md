@@ -117,6 +117,6 @@ a line again.
 
 ## Takeaway
 
-First DP where the transition is a *choice* rather than an accumulation. The
+Second DP where the transition is a *choice* rather than an accumulation; Day 020 was the first. The
 state is still "best answer for the first i items" and the window back is
 still 2, so the table still collapses to two variables.

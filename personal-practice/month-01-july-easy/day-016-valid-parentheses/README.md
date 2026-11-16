@@ -118,5 +118,4 @@ When the correctness of the thing I am reading depends on matching
 something to the most recent unmatched thing, that is a stack.
 
 Nesting, undo history, and "the last one still waiting" all sound like the
-same shape. First time this month that the data structure was the answer
-rather than the loop.
+same shape. As with Day 001's map, the data structure was the answer rather than the loop.
