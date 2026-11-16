@@ -89,8 +89,7 @@ happy with, and want to re-solve from a blank file, are listed in
 
 The routine has not changed much since July:
 
-1. Read the problem properly, including the constraints. Day 111 cost me half an
-   hour because I skimmed a tie-break rule, and that was not the only time.
+1. Read the problem properly, including the constraints. Day 111 cost me an attempt because I skimmed a tie-break rule, and that was not the only time.
 2. Write the brute force if one exists, even when I can already see the real
    answer. It gives me something correct to compare against.
 3. Get it correct first. Pass the examples, then the edge cases I can think of:
@@ -114,20 +113,17 @@ lists, stacks, trees, graphs, greedy, DP, bit manipulation, intervals, design)
 at a higher level than the month before. July was easy problems to build the
 vocabulary, August to October climbed through the medium tier, November is hard
 only. Seeing the same topic for the fifth time at a harder level is what moved
-things from recipe to reasoning: monotonic stacks were something I recalled in
-August and something I could derive by October, and sliding window went the same
-way. One pass through a topic list teaches you the names. Five passes teach you
+things from recipe to reasoning: monotonic stacks went from a one-word hint in August (day 047) to needing the editorial only for the width calculation in October (day 102), and sliding window went the same way. One pass through a topic list teaches you the names. Five passes teach you
 when to reach for which one.
 
 ## Where I still am
 
-Graphs and sliding window are comfortable now. In August I could not have
+Sliding window and the standard graph traversals are comfortable now. In August I could not have
 written Dijkstra or Kahn's algorithm unaided; in October four graph techniques
-in four days cost me under 40 minutes each. Sliding window is the same story,
+in four days cost me 45 minutes or less each. Sliding window is the same story,
 including the at-most counting trick that I used to find confusing.
 
-Design problems are still my weakest area. Day 134 (LFU Cache) was harder for me
-than any algorithm in November, because keeping three structures in sync is a
+Design problems are still my weakest area. Day 134 (LFU Cache) was the hardest design problem so far, because keeping three structures in sync is a
 different kind of difficulty from finding one insight. Pointer-heavy linked list
 work is the other sore spot: day 100 took four attempts and a hand-drawn
 diagram, and I still cannot do that kind of surgery without drawing the boxes.
