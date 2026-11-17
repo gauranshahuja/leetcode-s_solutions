@@ -1,6 +1,6 @@
 # Day 013 - Reverse Linked List
 
-LeetCode 206 · Easy · Linked list, pointer rewiring · Tuesday, 14 July 2026 · ~30 min, 3 attempts
+LeetCode 206 · Easy · Linked list, pointer rewiring · Tuesday, 14 July 2026 · ~30 min, 4 attempts
 
 ## Problem
 

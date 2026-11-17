@@ -43,7 +43,7 @@ Per month:
 | [010](month-01-july-easy/day-010-majority-element/) | Sat 11 Jul | Majority Element | 169 | Boyer-Moore voting | Easy | ~26 min | 2 | read about the voting algorithm, for the O(1) follow-up |
 | [011](month-01-july-easy/day-011-binary-search/) | Sun 12 Jul | Binary Search | 704 | Binary search | Easy | ~20 min | 3 |  |
 | [012](month-01-july-easy/day-012-search-insert-position/) | Mon 13 Jul | Search Insert Position | 35 | Binary search, lower bound | Easy | ~15 min | 2 |  |
-| [013](month-01-july-easy/day-013-reverse-linked-list/) | Tue 14 Jul | Reverse Linked List | 206 | Linked list, pointer rewiring | Easy | ~30 min | 3 |  |
+| [013](month-01-july-easy/day-013-reverse-linked-list/) | Tue 14 Jul | Reverse Linked List | 206 | Linked list, pointer rewiring | Easy | ~30 min | 4 |  |
 | [014](month-01-july-easy/day-014-middle-of-the-linked-list/) | Wed 15 Jul | Middle of the Linked List | 876 | Fast and slow pointers | Easy | ~12 min | 2 |  |
 | [015](month-01-july-easy/day-015-linked-list-cycle/) | Thu 16 Jul | Linked List Cycle | 141 | Floyd cycle detection | Easy | ~20 min | 2 |  |
 | [016](month-01-july-easy/day-016-valid-parentheses/) | Fri 17 Jul | Valid Parentheses | 20 | Stack | Easy | ~18 min | 2 |  |
@@ -54,7 +54,7 @@ Per month:
 | [021](month-01-july-easy/day-021-maximum-depth-of-binary-tree/) | Wed 22 Jul | Maximum Depth of Binary Tree | 104 | Tree DFS and BFS | Easy | ~14 min | 1 |  |
 | [022](month-01-july-easy/day-022-invert-binary-tree/) | Thu 23 Jul | Invert Binary Tree | 226 | Tree recursion | Easy | ~18 min | 2 |  |
 | [023](month-01-july-easy/day-023-same-tree/) | Fri 24 Jul | Same Tree | 100 | Tree recursion, parallel traversal | Easy | ~14 min | 1 |  |
-| [024](month-01-july-easy/day-024-symmetric-tree/) | Sat 25 Jul | Symmetric Tree | 101 | Tree recursion, mirrored traversal | Easy | ~25 min | 3 |  |
+| [024](month-01-july-easy/day-024-symmetric-tree/) | Sat 25 Jul | Symmetric Tree | 101 | Tree recursion, mirrored traversal | Easy | ~25 min | 4 |  |
 | [025](month-01-july-easy/day-025-single-number/) | Sun 26 Jul | Single Number | 136 | Bit manipulation, XOR | Easy | ~30 min | 2 |  |
 | [026](month-01-july-easy/day-026-number-of-1-bits/) | Mon 27 Jul | Number of 1 Bits | 191 | Bit manipulation | Easy | ~22 min | 3 | looked up the `n & (n - 1)` loop after the shift version worked |
 | [027](month-01-july-easy/day-027-intersection-of-two-arrays-ii/) | Tue 28 Jul | Intersection of Two Arrays II | 350 | Hash map counting | Easy | ~16 min | 2 |  |
@@ -212,8 +212,8 @@ Attempts:
 |---|---|
 | 1 | 16 |
 | 2 | 66 |
-| 3 | 45 |
-| 4 | 11 |
+| 3 | 43 |
+| 4 | 13 |
 
 First-attempt days: 003, 009, 021, 023, 045, 054, 059, 065, 069, 073, 080, 098, 112, 117, 118, 120. Day 073 also needed one fix for `""`.
 

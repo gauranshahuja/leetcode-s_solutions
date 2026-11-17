@@ -82,7 +82,7 @@ What actually stuck:
 
 What is still weak:
 
-- **Linked lists.** Day 013 took me three tries because I kept losing the tail.
+- **Linked lists.** Day 013 took me four tries because I kept losing the tail.
   I can do it now but I do not yet *see* it, I have to draw the boxes.
 - **DP.** Days 019 and 020 worked, but I only trust them because they are small.
   I do not think I could derive a recurrence for something unfamiliar yet.

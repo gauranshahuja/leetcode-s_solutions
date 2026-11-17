@@ -112,7 +112,7 @@ signed 32-bit coercion, `>>` vs `>>>`, `sort()` comparing as strings,
 the language and not the algorithm.
 
 Second place for weakest: recursion where I have to return two things at once.
-It was fine today, but Day 024 took three attempts for what is a five line
+It was fine today, but Day 024 took four attempts for what is a five line
 function.
 
 Next month is mediums. Expecting the easy-problem reflex of "there is one

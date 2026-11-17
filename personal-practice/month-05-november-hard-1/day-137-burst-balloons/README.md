@@ -28,7 +28,7 @@ burst 8:  1 * 8 * 1 = 8       row empty
 
 ## The formulation that does not work (worth recording)
 
-My instinct, for two hours, was the one every DP is: pick the first move, recurse
+My instinct, for an hour and forty minutes, was the one every DP is: pick the first move, recurse
 on what is left.
 
 ```
@@ -133,7 +133,7 @@ the correct range, and `span = 2` is the smallest interval with anything in it.
 
 I also kept the brute-force version around and cross-checked six small arrays
 against it, including `[9, 76, 64, 21, 97, 60]` and an array with zeros in the
-middle. After two hours of wrong recurrences I did not trust my own reading of
+middle. After an hour and forty minutes of wrong recurrences I did not trust my own reading of
 the right one.
 
 ## Complexity

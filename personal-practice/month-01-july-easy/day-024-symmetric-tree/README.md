@@ -1,6 +1,6 @@
 # Day 024 - Symmetric Tree
 
-LeetCode 101 · Easy · Tree recursion, mirrored traversal · Saturday, 25 July 2026 · ~25 min, 3 attempts
+LeetCode 101 · Easy · Tree recursion, mirrored traversal · Saturday, 25 July 2026 · ~25 min, 4 attempts
 
 ## Problem
 
