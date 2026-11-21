@@ -65,6 +65,7 @@ MIT — see [LICENSE](LICENSE).
 | [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0485-max-consecutive-ones) |
 | [0636-exclusive-time-of-functions](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0636-exclusive-time-of-functions) |
@@ -88,6 +89,7 @@ MIT — see [LICENSE](LICENSE).
 | ------- |
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/1189-maximum-number-of-balloons) |
@@ -101,6 +103,7 @@ MIT — see [LICENSE](LICENSE).
 | ------- |
 | [0009-palindrome-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -192,6 +195,7 @@ MIT — see [LICENSE](LICENSE).
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -204,6 +208,7 @@ MIT — see [LICENSE](LICENSE).
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -246,6 +251,7 @@ MIT — see [LICENSE](LICENSE).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0645-set-mismatch) |
 ## Depth-First Search
 |  |
