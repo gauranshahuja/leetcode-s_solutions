@@ -103,6 +103,7 @@ MIT — see [LICENSE](LICENSE).
 | ------- |
 | [0009-palindrome-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -179,6 +180,7 @@ MIT — see [LICENSE](LICENSE).
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -251,6 +253,7 @@ MIT — see [LICENSE](LICENSE).
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0645-set-mismatch) |
 ## Depth-First Search
