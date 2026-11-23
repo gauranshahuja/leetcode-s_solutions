@@ -63,6 +63,7 @@ MIT — see [LICENSE](LICENSE).
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ MIT — see [LICENSE](LICENSE).
 | ------- |
 | [0001-two-sum](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0645-set-mismatch) |
