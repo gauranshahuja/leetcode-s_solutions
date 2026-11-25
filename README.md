@@ -92,6 +92,7 @@ MIT — see [LICENSE](LICENSE).
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0645-set-mismatch) |
@@ -118,6 +119,7 @@ MIT — see [LICENSE](LICENSE).
 | [0014-longest-common-prefix](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters) |
@@ -126,6 +128,7 @@ MIT — see [LICENSE](LICENSE).
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauranshahuja/leetcode-s_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauranshahuja/leetcode-s_solutions/tree/main/3737-count-subarrays-with-majority-element-i) |
